@@ -1,0 +1,40 @@
+﻿Build started 11/16/2015 10:06:21 PM.
+     1>Project "C:\Users\mohamedsherif\Desktop\Flood It Game\Flood It Game\Flood It Game.vcxproj" on node 2 (Build target(s)).
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\CL.exe /c /I"C:\Users\mohamedsherif\Desktop\Flood It Game\/SFML-2.3.2/include" /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Zc:inline /Fo"Debug\\" /Fd"Debug\vc140.pdb" /Gd /TP /analyze- /errorReport:prompt "Flood It Game After Highscore.cpp"
+         Flood It Game After Highscore.cpp
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(51): warning C4244: 'initializing': conversion from 'double' to 'int', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(118): warning C4244: 'argument': conversion from 'time_t' to 'unsigned int', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(132): warning C4554: '&': check operator precedence for possible error; use parentheses to clarify precedence
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(207): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(397): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(404): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(590): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(709): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(760): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(870): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(870): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(878): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(952): warning C4244: 'argument': conversion from 'const int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(952): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(983): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(990): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(997): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1004): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1011): warning C4305: 'argument': truncation from 'double' to 'float'
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1054): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1055): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1078): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1090): warning C4018: '<': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1110): warning C4244: 'return': conversion from 'int' to 'float', possible loss of data
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(1118): warning C4018: '<=': signed/unsigned mismatch
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(697): warning C4715: 'endgame': not all control paths return a value
+     1>c:\users\mohamedsherif\desktop\flood it game\flood it game\flood it game after highscore.cpp(944): warning C4715: 'loader': not all control paths return a value
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 14.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\mohamedsherif\Desktop\Flood It Game\Debug\Flood It Game.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\Users\mohamedsherif\Desktop\Flood It Game\/SFML-2.3.2/lib" "sfml-system-s.lib" "sfml-window-s.lib" "sfml-audio-s.lib" "sfml-graphics-s-d.lib" "sfml-network-s.lib" "sfml-system-d.lib" "sfml-window-d.lib" "sfml-audio-d.lib" "sfml-graphics-d.lib" "sfml-network-d.lib" "sfml-main-d.lib" "sfml-window-s-d.lib" "sfml-system-s-d.lib" openal32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /Debug /PDB:"C:\Users\mohamedsherif\Desktop\Flood It Game\Debug\Flood It Game.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\mohamedsherif\Desktop\Flood It Game\Debug\Flood It Game.lib" /MACHINE:X86 "Debug\Flood It Game After Highscore.obj"
+         Flood It Game.vcxproj -> C:\Users\mohamedsherif\Desktop\Flood It Game\Debug\Flood It Game.exe
+     1>Done Building Project "C:\Users\mohamedsherif\Desktop\Flood It Game\Flood It Game\Flood It Game.vcxproj" (Build target(s)).
+
+Build succeeded.
+
+Time Elapsed 00:00:05.63
